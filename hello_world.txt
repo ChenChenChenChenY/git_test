@@ -1,16 +1,1 @@
-<<<<<<< HEAD
 I am excited to learn how to post codes on GitHub!
-hello
-1
-2
-3
-4
-5
-6
-123
-41
-23
-1
-=======
-I am excited to learn how to post codes on GitHub!
->>>>>>> 47781b08a746562d50fae769d6e4b298248d8fc6
